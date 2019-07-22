@@ -3,6 +3,7 @@
 * JavaScript
 * 微信
     * [消息推送](wechat/message-push-notification/index)
+    * [微信H5网页授权](wechat/wechat-h5-authorize/index)
 * W3C
 * 性能优化
 * TypeScript
