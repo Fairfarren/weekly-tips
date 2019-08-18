@@ -1,5 +1,5 @@
 * Vue
-    * [探索Vue之props属性](vue/vue-props)
+    * [Vue之props属性](vue/vue-props)
     * [Vue Hooks API介绍](vue/vue-hooks)
 * JavaScript
     * [前端基础之引用类型](javascript/object-reference)
