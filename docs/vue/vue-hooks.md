@@ -232,7 +232,7 @@ export default {
 
 ?> 注意`watch`函数的第个三个参数，它是对象。`lazy`和vue 2.x中的`immediate`相反，默认为false，表示立即执行`watch`里面的处理函数。`flush`有`post`、`pre`和`sync`三个可选知，默认为`post`,标识在DOM更新完毕后执行。
 
-- 默认`flush`为`post`，输入结果为：
+- 默认`flush`为`post`，输出结果为：
 
 ```bash
 before update....
@@ -240,14 +240,14 @@ updated...
 dom:  count is 1
 ```
 
-- 如果`flush`为`pre`，输入结果为：
+- 如果`flush`为`pre`，输出结果为：
 ```bash
 before update....
 dom:  count is 0
 updated...
 ```
 
-- 如果`flush`为`sync`，输入结果为：
+- 如果`flush`为`sync`，输出结果为：
 ```bash
 dom:  count is 0
 before update....
