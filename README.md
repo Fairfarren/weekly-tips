@@ -5,6 +5,14 @@
 
 # 安装部署
 
+## 安装docsify
+
+```bash
+npm i docsify-cli -g
+```
+
+##
+
 
 ## 增加文件
 

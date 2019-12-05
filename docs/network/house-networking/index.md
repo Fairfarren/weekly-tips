@@ -20,14 +20,14 @@ NAS 可以提供一些文件存储，系统备份(Time Machine)，照片备份�
 NAS 的功耗低，100w 不到，可以实现 7\*24 小时开机。网络资源利用率较高，可以长期挂 BT，PT 下载
 
 <div style="margin-bottom:20px;">
-  <img src="/network/house-networking/images/1.jpg" width="280" style="margin-right: 10px;">
-  <img src="/network/house-networking/images/2.jpg" width="280" style="margin-right: 10px;">
-  <img src="/network/house-networking/images/6.jpg" width="280">
+  <img src="./network/house-networking/images/1.jpg" width="280" style="margin-right: 10px;">
+  <img src="./network/house-networking/images/2.jpg" width="280" style="margin-right: 10px;">
+  <img src="./network/house-networking/images/6.jpg" width="280">
 </div>
 
 <div style="margin-bottom:20px;">
-  <img src="/network/house-networking/images/3.jpg" width="280">
-  <img src="/network/house-networking/images/4.jpg" width="280">
+  <img src="./network/house-networking/images/3.jpg" width="280">
+  <img src="./network/house-networking/images/4.jpg" width="280">
 </div>
 
 ## 如何可以在外网也能进行访问？
@@ -145,7 +145,7 @@ remote_port = 5022
 -   ipv6 是互联网协议的第 6 个版本，地址长度是 128 位，也就是说它的数量可以达到 2^128，大概是 3.4\*10^38 个
 -   ipv6 的测试地址：https://www.test-ipv6.com/
 
-    <img src="/network/house-networking/images/5.jpg" width="200">
+    <img src="./network/house-networking/images/5.jpg" width="200">
 
 -   ipv6 地址样例：2409:8962:1:a29d:1d55:7b44:ec6:31xx
 -   移动的一般 2409 开头，联通 2408 开头，电信 240e 开头
