@@ -6,4 +6,4 @@
 * Coding can make the world go around
 
 
-[Get Started](/w3c/webrtc-data-channel)
+[Get Started](/debug/whistle/index)
