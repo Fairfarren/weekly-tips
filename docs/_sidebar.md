@@ -1,5 +1,6 @@
 * Vue
     * [Vue之props属性](vue/vue-props)
+    * [Vue Directive 实现及npm包发布](vue/vue-directive-npm)
     * [Vue Hooks API介绍](vue/vue-hooks)
     * [DLLPlugin使用实战](vue/dll-plugin/index)
 * JavaScript
