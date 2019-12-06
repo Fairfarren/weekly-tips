@@ -6,4 +6,4 @@
 * Coding can make the world go around
 
 
-[Get Started](/debug/whistle/index)
+[Get Started](/vue/vue-directive-npm)
