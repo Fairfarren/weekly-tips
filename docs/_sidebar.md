@@ -8,6 +8,7 @@
 * 微信
     * [微信消息推送](wechat/message-push-notification/index)
     * [微信H5网页授权](wechat/wechat-h5-authorize/index)
+    * [微博获取用户头像](wechat/weibo-userinfo)
 * W3C
     * [Broadcast Channel 简介](w3c/boardcast-channel/index)
     * [WebRTC DataChannel 简介](w3c/webrtc-data-channel)
