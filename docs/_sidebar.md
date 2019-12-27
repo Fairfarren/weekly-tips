@@ -3,6 +3,7 @@
     * [Vue Directive 实现及npm包发布](vue/vue-directive-npm)
     * [Vue Hooks API介绍](vue/vue-hooks)
     * [DLLPlugin使用实战](vue/dll-plugin/index)
+    * [Jest 单元测试框架介绍](vue/vue-jest)
 * JavaScript
     * [前端基础之引用类型](javascript/object-reference)
 * 微信
