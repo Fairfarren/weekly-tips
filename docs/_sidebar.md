@@ -13,6 +13,7 @@
 * W3C
     * [Broadcast Channel 简介](w3c/boardcast-channel/index)
     * [WebRTC DataChannel 简介](w3c/webrtc-data-channel)
+    * [WebAssembly简介](w3c/WebAssembly-intro)
 * 调试
     * [whistle使用介绍](debug/whistle/index)
 * 网络

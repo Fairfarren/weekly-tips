@@ -6,4 +6,4 @@
 * Coding can make the world go around
 
 
-[Get Started](/vue/vue-directive-npm)
+[Get Started](/vue/vue-jest)
