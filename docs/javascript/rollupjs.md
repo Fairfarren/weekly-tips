@@ -133,9 +133,9 @@ export default {
 }
 ```
 
-运行 `npx rollup -c rollup.split.config.js` 编译源码，生成 `./dist/bundle-es.js`, `./dist/utils-65ee99c3.js`
+运行 `npx rollup -c rollup.split.config.js` 编译源码，生成 `./dist/bundle-cjs.js`, `./dist/utils-65ee99c3.js`
 
-- bundle-es.js
+- bundle-cjs.js
 
 ```js
 'use strict'
