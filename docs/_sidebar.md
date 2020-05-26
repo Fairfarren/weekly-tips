@@ -6,6 +6,7 @@
     * [Jest 单元测试框架介绍](vue/vue-jest)
 * JavaScript
     * [前端基础之引用类型](javascript/object-reference)
+    * [rollup.js 使用介绍](javascript/rollup.js)
 * 微信
     * [微信消息推送](wechat/message-push-notification/index)
     * [微信H5网页授权](wechat/wechat-h5-authorize/index)
