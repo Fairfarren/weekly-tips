@@ -9,7 +9,7 @@
 | npm      | 6.13.1   |
 | @vue/cli | 4.1.1    |
 
-*[vue-jest-demo](https://gitee.com/hudongchen/vue-jest-demo)*
+[*vue-jest-demo*](https://gitee.com/hudongchen/vue-jest-demo)
 
 ## 作用
 

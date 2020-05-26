@@ -1,7 +1,5 @@
 ?> 作者：DongChen_Hu ，供稿日期：2020/05/26
 
-# rollup.js 使用介绍
-
 [rollup.js](https://www.rollupjs.org/guide/en/): JavaScript 模块打包工具，常用于打包库（如 vue-next, ...）
 
 ## 特点
