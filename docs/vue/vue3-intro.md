@@ -471,6 +471,6 @@ import { useMouseWithReactive, toRefs }  from './composition/useMouse'
 
 ## 参考资料 
 
--  [@vue/composition-api](https://github.com/vuejs/composition-api)
--  [Composition API](https://vue-composition-api-rfc.netlify.app/zh/api.html#setup)
--  [Composition API RFC](https://vue-composition-api-rfc.netlify.com/)
+-  [@vue/composition-api](https://github.com/vuejs/composition-api/blob/master/README.zh-CN.md)
+-  [Composition API](https://vue-composition-api-rfc.netlify.app/zh/api.html)
+-  [Composition API RFC](https://vue-composition-api-rfc.netlify.app/zh/)
