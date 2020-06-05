@@ -76,6 +76,9 @@
 </script>
 ```
 
+
+##  Composition API 函数组合
+
 Vue Composition API 可以使用组合函数（composition function）来进行代码复用
 
 ```html
@@ -455,6 +458,15 @@ import { useMouseWithReactive, toRefs }  from './composition/useMouse'
 
 此时， 发发现x、y一直为0， 可以使用`toRefs`将其转让基于`ref`的可响应式对象。 比如 `toRefs(pos)`，这样才解构后依然拥有响应式功能。
 
+
+
+## 环境准备
+
+使用Vue 3可以参考如下3种方式
+
+- 基于vue-cli升级到vue 3， 使用[vue-cli-plugin-vue-next](https://github.com/vuejs/vue-cli-plugin-vue-next)插件
+- 基于[vue-next-webpack-preview](https://github.com/vuejs/vue-next-webpack-preview) webpack样例
+- 基于[Vite](https://github.com/vitejs/vite)， 推荐使用，比较简单快捷
 
 
 ## 参考资料 
