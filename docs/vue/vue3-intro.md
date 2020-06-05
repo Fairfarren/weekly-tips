@@ -474,3 +474,4 @@ import { useMouseWithReactive, toRefs }  from './composition/useMouse'
 -  [@vue/composition-api](https://github.com/vuejs/composition-api/blob/master/README.zh-CN.md)
 -  [Composition API](https://vue-composition-api-rfc.netlify.app/zh/api.html)
 -  [Composition API RFC](https://vue-composition-api-rfc.netlify.app/zh/)
+-  [New features in Vue 3 and how to use them](https://blog.logrocket.com/new-features-in-vue-3-and-how-to-use-them/)
