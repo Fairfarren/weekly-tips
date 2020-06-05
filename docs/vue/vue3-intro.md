@@ -7,6 +7,8 @@
 
 - 基于选项的 API 撰写出来的代码自然采用了后者的表述方式，然而对前者的表述并不好。
 
+- 一个[现实例子](https://github.com/vuejs/vue-cli/blob/a09407dd5b9f18ace7501ddb603b95e31d6d93c0/packages/@vue/cli-ui/src/components/folder/FolderExplorer.vue#L198-L404)
+
 
 ![图片](https://gitee.com/zhaolei/pictures/raw/master/uPic/5Ocu0g-1591324828461.jpg)
 
