@@ -126,15 +126,15 @@ Vue Composition API 可以使用组合函数（composition function）来进行�
 </script>
 ```
 
-?> 由于 Vue 3.x 还为发布正式版，官方提供了[vue-function-api](https://github.com/vuejs/vue-function-api)来模拟 Hooks API，并保证和 Vue 3.x 兼容。
+?> 由于 Vue 3.x 还为发布正式版，官方提供了[ @vue/composition-api](https://github.com/vuejs/composition-api)来模拟 Vue 3 Composition API，并保证和 Vue 3.x 兼容。
 
-使用[vue-function-api](https://github.com/vuejs/vue-function-api)之前，需要先注册一下，比如：
+使用[ @vue/composition-api](https://github.com/vuejs/composition-api)之前，需要先注册一下，比如：
 
 ```js
 import Vue from 'vue'
-import { plugin } from 'vue-function-api'
+import VueCompositionApi from '@vue/composition-api'
 
-Vue.use(plugin)
+Vue.use(VueCompositionApi)
 ```
 
 具体使用请参考官方文档。
@@ -454,3 +454,11 @@ import { useMouseWithReactive, toRefs }  from './composition/useMouse'
 ```
 
 此时， 发发现x、y一直为0， 可以使用`toRefs`将其转让基于`ref`的可响应式对象。 比如 `toRefs(pos)`，这样才解构后依然拥有响应式功能。
+
+
+
+## 参考资料 
+
+-  [@vue/composition-api](https://github.com/vuejs/composition-api)
+-  [Composition API](https://vue-composition-api-rfc.netlify.app/zh/api.html#setup)
+-  [Composition API RFC](https://vue-composition-api-rfc.netlify.com/)
