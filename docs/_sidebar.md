@@ -9,6 +9,7 @@
     * [前端基础之引用类型](javascript/object-reference)
     * [rollup.js 使用介绍](javascript/rollupjs)
     * [Axios中之取消请求](javascript/axios-cancel)
+    * [threejs 基础介绍](javascript/threejs)
 * 微信
     * [微信消息推送](wechat/message-push-notification/index)
     * [微信H5网页授权](wechat/wechat-h5-authorize/index)
